@@ -2,7 +2,7 @@
 <p align="center">
     <img
       alt="aoc"
-      src="https://github.com/EGoesche/aoc2021/blob/master/aoc.jpeg"
+      src="https://github.com/EGoesche/aoc2021/blob/main/aoc.jpeg"
       width="300"
     />
 </p>
